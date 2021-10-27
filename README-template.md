@@ -6,7 +6,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -19,11 +18,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### The challenge
 
 - Build out an profile card component, I used grid to center the card in any screen. used flex to align items in the card. used :after to add the avatar.
-
-### Screenshot
-
-![desktop version](desktop.jpg)
-![mobile version](mobile.jpg)
 
 ### Links
 
